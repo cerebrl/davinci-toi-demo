@@ -12,6 +12,7 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "@forgerock/davinci-client": "^1.0.0"
+    "@forgerock/davinci-client": "^1.0.0",
+    "@forgerock/javascript-sdk": "^4.7.0"
   }
 }
